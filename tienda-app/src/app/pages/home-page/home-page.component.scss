@@ -1,0 +1,18 @@
+.titulo-app {
+  display: flex;
+  width: 20%;
+}
+.links {
+  display: flex;
+  width: 80%;
+  justify-content: right;
+  gap: 1rem;
+  a:-webkit-any-link {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.contenedor{
+  padding: 3rem;
+}
